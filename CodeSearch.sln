@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSearch", "CodeSearch\CodeSearch.csproj", "{60B974AC-62D6-4620-BE19-465BE4933093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSearch.IntegrationTests", "CodeSearch.IntegrationTests\CodeSearch.IntegrationTests.csproj", "{0AA81683-6A3B-4629-8438-86DB26A092B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B974AC-62D6-4620-BE19-465BE4933093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B974AC-62D6-4620-BE19-465BE4933093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B974AC-62D6-4620-BE19-465BE4933093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B974AC-62D6-4620-BE19-465BE4933093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA81683-6A3B-4629-8438-86DB26A092B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA81683-6A3B-4629-8438-86DB26A092B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA81683-6A3B-4629-8438-86DB26A092B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA81683-6A3B-4629-8438-86DB26A092B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05A8E2A7-4EB1-4A9B-9083-4EBFD636E909}
+	EndGlobalSection
+EndGlobal
